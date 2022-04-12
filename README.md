@@ -1,1 +1,1 @@
-# DesignPatterns-C-
+# DesignPatterns-CSharp
