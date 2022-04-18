@@ -35,6 +35,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Mediator\IColleague.cs" />
+    <Compile Include="Mediator\IMediator.cs" />
+    <Compile Include="Mediator\Mediator.cs" />
+    <Compile Include="Mediator\User.cs" />
+    <Compile Include="Mediator\UserAdmin.cs" />
     <Compile Include="Program.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
