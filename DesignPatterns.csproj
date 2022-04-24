@@ -41,6 +41,9 @@
     <Compile Include="Mediator\User.cs" />
     <Compile Include="Mediator\UserAdmin.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Singleton\LoadBalancer.cs" />
+    <Compile Include="Singleton\Server.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
